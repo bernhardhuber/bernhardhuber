@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bernhardhuber
 - 👀 I’m interested in java programming
-- 🌱 I’m currently learning java ee, java micro service
+- 🌱 I’m currently learning git, java ee, java micro service
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me ...
 
